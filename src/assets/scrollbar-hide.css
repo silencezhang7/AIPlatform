@@ -1,0 +1,10 @@
+/* 隐藏所有滚动条，适配主流浏览器（包括Element Plus等组件） */
+*::-webkit-scrollbar {
+    display: none !important;
+    width: 0 !important;
+    background: transparent !important;
+}
+* {
+    scrollbar-width: none !important;    /* Firefox */
+    -ms-overflow-style: none !important; /* IE/Edge */
+}
