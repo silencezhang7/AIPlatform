@@ -545,6 +545,6 @@ watch(chatList, saveChats, {deep: true})
 </script>
 
 <style scoped>
-@import "../assets/css/AnXIaoSheng.css";
+@import "../assets/styles/AnXiaoSheng/AnXIaoSheng.css";
 /* 你还可以写本地样式 */
 </style>
