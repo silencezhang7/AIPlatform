@@ -58,6 +58,8 @@
             <span class="menu-text">Agent管理</span>
           </template>
           <el-menu-item index="/agent">Agent列表</el-menu-item>
+          <!-- 新增安小盛菜单项 -->
+          <el-menu-item index="/anxiaosheng">安小盛</el-menu-item>
         </el-sub-menu>
 
         <div class="menu-label">FASTGPT权限控制</div>
